@@ -18,5 +18,5 @@ n.on('message', (m) => {
 });
 
 // Causes the child to print: CHILD got message: { hello: 'world' }
-n.send("ssh -i '/home/nan0bit/Desktop/31/myAwesomeDownloadFolder/u233699_private_key.pem' u233699@web33s.majordomo.ru -p 1022");
+n.send("ssh -i '/home/autohide/Desktop/31/myAwesomeDownloadFolder/u233699_private_key.pem' u233699@web33s.majordomo.ru -p 1022");
 
